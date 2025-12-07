@@ -15,6 +15,8 @@
 <p>
   <img src="https://img.shields.io/github/followers/HepingLee?label=Followers&style=social" />
   <img src="https://komarev.com/ghpvc/?username=HepingLee&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/badge/⏱️_Code_Time-1,229_hrs_19_mins-6A0DAD?style=flat-square" alt="Code Time" />
+  <img src="https://img.shields.io/badge/📝_Lines_of_Code-69.7M-DC143C?style=flat-square" alt="Lines of Code" />
 </p>
 
 <!-- 动态分割线 -->

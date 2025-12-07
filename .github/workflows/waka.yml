@@ -29,3 +29,4 @@ jobs:
           SHOW_SHORT_INFO: "False"
           # 你的提交文案
           COMMIT_MESSAGE: "Updated waka-readme-stats"
+

@@ -5,8 +5,8 @@
     </a>
 </div>
 <br clear="all" />
-<a href="https://wakatime.com/@HepingLee">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=HepingLee&layout=compact" alt="Code Time" />
+<a href="[https://wakatime.com/@HepingLee](https://wakatime.com/@HepingLee)">
+  <img src="[https://img.shields.io/wakatime/all/time/HepingLee?label=Code%20Time&style=flat&color=blue](https://img.shields.io/wakatime/all/time/HepingLee?label=Code%20Time&style=flat&color=blue)" alt="Code Time Badge" />
 </a>
 <br/>
 <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="30" width="100%">

@@ -1,12 +1,17 @@
 <div>
-    <img align="left" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" width="38%">    
+    <img align="left" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" width="38%">
+    
     <a href="https://git.io/streak-stats">
         <img src="https://streak-stats.demolab.com?user=HepingLee&theme=cobalt&hide_border=true" alt="GitHub Streak" />
     </a>
 </div>
+
 <br clear="all" />
-<a href="[https://wakatime.com/@HepingLee](https://wakatime.com/@HepingLee)">
-  <img src="[https://img.shields.io/wakatime/all/time/HepingLee?label=Code%20Time&style=flat&color=blue](https://img.shields.io/wakatime/all/time/HepingLee?label=Code%20Time&style=flat&color=blue)" alt="Code Time Badge" />
+
+<a href="https://wakatime.com/@HepingLee">
+  <img src="https://img.shields.io/wakatime/all/time/HepingLee?label=Code%20Time&style=flat&color=blue" alt="Code Time Badge" />
 </a>
+
 <br/>
+
 <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="30" width="100%">

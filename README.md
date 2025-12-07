@@ -1,29 +1,49 @@
 <div align="center">
 
-<!-- 欢迎标语 -->
-<h1>👋 Hi there, I'm HepingLee!</h1>
+## 📈 HepingLee's GitHub Analytics
 
-<!-- 统计卡片 -->
-<div>
-  <img align="left" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" width="35%" />
-  <img src="https://streak-stats.demolab.com?user=HepingLee&theme=cobalt&hide_border=true" />
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px;">
+
+<div align="center">
+  
+### 🗓️ Contributions
+![Total](https://img.shields.io/badge/Total-53-00BFFF?style=flat-square)
+![Current](https://img.shields.io/badge/Current_Streak-1_day-FF6B6B?style=flat-square)
+![Longest](https://img.shields.io/badge/Longest_Streak-1_day-4CAF50?style=flat-square)
+<p><small>Aug 13, 2022 - Present</small></p>
+
 </div>
 
-<br clear="all" />
+<div align="center">
 
-<!-- 社交徽章 -->
-<p>
-  <img src="https://img.shields.io/github/followers/HepingLee?label=Followers&style=social" />
-  <img src="https://komarev.com/ghpvc/?username=HepingLee&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+### ⏱️ Coding Time
+<div style="font-size: 24px; font-weight: bold; color: #9C27B0;">
+40%
+</div>
+<p>Total Time Coded</p>
+<!-- 进度条 -->
+<div style="width: 100%; background: #e0e0e0; border-radius: 10px;">
+  <div style="width: 40%; background: #9C27B0; height: 10px; border-radius: 10px;"></div>
+</div>
 
-<!-- 动态分割线 -->
-<img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="30" width="100%" />
+</div>
 
-<!-- 技能标签 -->
-<h3>🛠️ Tech Stack</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,git,github,vscode" />
-</p>
+<div align="center">
+
+### 👥 Community
+![Followers](https://img.shields.io/badge/Followers-1-FF4081?style=flat-square)
+![Following](https://img.shields.io/badge/Following-0-FF9800?style=flat-square)
+<p><small>GitHub Network</small></p>
+
+</div>
+
+</div>
+
+<!-- 动态统计 -->
+<div style="margin-top: 30px;">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=HepingLee&theme=radical&hide_border=true" />
+  </a>
+</div>
 
 </div>

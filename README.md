@@ -4,5 +4,6 @@
         <img src="https://streak-stats.demolab.com?user=HepingLee&theme=cobalt&hide_border=true" alt="GitHub Streak" />
     </a>
 </div>
+[![Code Time](https://github-readme-stats.vercel.app/api/wakatime?username=HepingLee&layout=compact)](https://wakatime.com/@HepingLee)
 
 <img src="https://github.com/heartyang520/HeartYang.github.io/blob/main/share/paomaxian.gif?raw=true" height="30" width="100%">

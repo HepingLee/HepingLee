@@ -3,12 +3,6 @@
 <!-- 欢迎标语 -->
 <h1>👋 Hi there, I'm HepingLee!</h1>
 
-<!-- 统计卡片 -->
-<div>
-  <img align="left" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" width="35%" />
-  <img src="https://streak-stats.demolab.com?user=HepingLee&theme=cobalt&hide_border=true" />
-</div>
-
 <br clear="all" />
 
 <!-- 社交徽章 -->
